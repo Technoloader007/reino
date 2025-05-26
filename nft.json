@@ -1,0 +1,20 @@
+{
+  "name": "SignedNFT #212",
+  "description": "This is SignedNFT #123 — a one-of-a-kind on-chain collectible.",
+  "image": "https://www.technoloader.com/images/technoloader2.png",
+  "external_url": "https://technoloader.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmic Blue"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": 9001
+    },
+    {
+      "trait_type": "Generation",
+      "value": "First"
+    }
+  ]
+}
